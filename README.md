@@ -1,2 +1,2 @@
 # site layout
-siple page
+simple page
